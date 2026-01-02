@@ -1,0 +1,11 @@
+name: Replane
+website_url: https://github.com/replane-dev/replane
+description: Dynamic configuration manager for feature flags, app settings, and operational config with version history, approvals, and realtime sync.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Software Development - Feature Toggle
+source_code_url: https://github.com/replane-dev/replane
